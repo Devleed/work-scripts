@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "@uniswap/sdk": "^3.0.3",
+    "axios": "^1.7.4",
+    "bignumber.js": "^9.1.2",
+    "dotenv": "^16.4.6",
+    "ethers": "^5.7.2",
+    "keccak256": "^1.0.6",
+    "pg": "^8.11.3",
+    "solc": "^0.8.28",
+    "yargs": "^17.6.2"
+  }
+}
