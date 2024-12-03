@@ -3,7 +3,7 @@ const axios = require('axios');
 const API_URL = 'https://api-sepolia.etherscan.io/api';
 
 const checkStatus = async () => {
-  const guid = 'i364yhemwzgmas8nhihffsyhqayhjkvifr4ikutedljtc53e4w'; // Replace with the GUID returned from verification
+  const guid = 'c6vnstktqx7fznekdac7wvwbs4f3ttep6bfs3kes5j2lv1yhqe'; // Replace with the GUID returned from verification
   const apiKey = 'YYUUJDZYDFRD9GED2ZRBZ6JBPCZK5V433R';
 
   try {
